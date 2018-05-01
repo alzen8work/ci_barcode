@@ -9,8 +9,7 @@
 ## How to install for existing project:
 -paste file : application/helpers/barcode_helper.php
 -paste entire directory: application/third_party/Barcode
-- edit application/config/autoload.php
--- add new helper 'barcode' in autoload helper array below: 
+- edit application/config/autoload.php, add new helper 'barcode' in autoload helper array below: 
 -- $autoload['helper'] = array('barcode');
 
 ## test output:
