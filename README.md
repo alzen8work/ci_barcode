@@ -2,5 +2,5 @@
 ##(tested on 3.1.8)
 
 
-###to test:
-###<ip to project root>/index.php/barcode?code=test
+## test output:
+-localhost/path_to_project/index.php/barcode?code=test
