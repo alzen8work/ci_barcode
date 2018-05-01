@@ -1,0 +1,24 @@
+.DS_Store
+
+# SYS Files
+#-------------------------
+/system/
+
+/application/config/*
+!/application/config/autoload.php
+/application/language/*
+/application/hooks/*
+/application/core/*
+/application/libraries/*
+/application/models/*
+/application/views/*
+
+
+
+/application/controllers/*
+!/application/controllers/Barcode.php
+
+!/application/third_party/Barcode/*
+
+/application/helpers/*
+!/application/helpers/Barcode.php
