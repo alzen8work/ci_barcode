@@ -16,3 +16,7 @@ $autoload['helper'] = array('barcode');
 
 ## test output:
 -localhost/path_to_project/index.php/barcode?code=test
+
+# Credits to
+- CodeIgniter : https://codeigniter.com || https://github.com/bcit-ci/CodeIgniter
+- picqer : https://github.com/picqer/php-barcode-generator
