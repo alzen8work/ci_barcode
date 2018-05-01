@@ -10,7 +10,7 @@
 -paste file : application/helpers/barcode_helper.php
 -paste entire directory: application/third_party/Barcode
 - edit application/config/autoload.php
--- add new helper 'barcode' in autoload helper array :
+-- add new helper 'barcode' in autoload helper array : 
 --- $autoload['helper'] = array('barcode');
 
 ## test output:
