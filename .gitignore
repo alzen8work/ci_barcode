@@ -21,4 +21,4 @@
 !/application/third_party/Barcode/*
 
 /application/helpers/*
-!/application/helpers/Barcode.php
+!/application/helpers/barcode_helper.php
